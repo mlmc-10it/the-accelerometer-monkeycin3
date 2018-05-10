@@ -3,8 +3,8 @@
 
 Tasks for learning physical computing with the microbit
 
-when i tryed to do this code 
+when i tryed to do this code the out come was 
 
 
 
-![microbit](file:///Users/20jcincotta/Desktop/Screen%20Shot%202018-05-10%20at%2011.47.47%20AM.png)
+![microbit](http://prntscr.com/jfxbc4)
